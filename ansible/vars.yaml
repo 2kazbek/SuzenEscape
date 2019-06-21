@@ -269,6 +269,24 @@ levels          :
     sault   : "Rc6uI4vD"
     flag    : "cjs60vS8vl3nfieCuvNal0fV74en"
     chain   : 16
+    # find
+  - name    : suzen1602
+    password: "cjs60vS8vl3nfieCuvNal0fV74en"
+    sault   : "eiGohC9k"
+    flag    : "SWVwb292NU9obmdpNm9vamFoQ2gK"
+    chain   : 16
+    # find
+  - name    : suzen1603
+    password: "SWVwb292NU9obmdpNm9vamFoQ2gK"
+    sault   : "Zijuo2Mo"
+    flag    : "MKzgASrjByzdIaTdpaTdq2vzAIgY"
+    chain   : 16
+    # find
+  - name    : suzen1604
+    password: "MKzgASrjByzdIaTdpaTdq2vzAIgY"
+    sault   : "Zijuo2Mo"
+    flag    : "K82T5UWZjlWYzUnal9mS2g2cpFGb"
+    chain   : 16
 
     ## Chain 14 (sort)
     # sort -u
